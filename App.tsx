@@ -252,7 +252,7 @@ const styles = StyleSheet.create({
   },
   button: {
     backgroundColor: '#e0e0e0',
-    padding: 25,
+    padding: 20,
     margin: 8,
     borderRadius: 12,
     minWidth: 80,
@@ -260,7 +260,7 @@ const styles = StyleSheet.create({
     elevation: 3,
   },
   buttonText: {
-    fontSize: 28,
+    fontSize: 22,
     color: '#333',
     fontWeight: '500',
   },
