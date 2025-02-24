@@ -3,7 +3,7 @@
 A simple yet powerful calculator application built with React Native.
 
 ## Features
-- Basic arithmetic operations (+, -, *, /)
+- Basic arithmetic operations (+, -, *, /,%,SquarRoots)
 - Clear and delete functionality
 - Responsive design for mobile devices
 - Cross-platform support (Android & iOS)
