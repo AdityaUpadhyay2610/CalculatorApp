@@ -70,4 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For any inquiries, please contact:
 - Aditya Upadhyay
-- Email: aditya.upadhyay@example.com
+- Email: adityaupadhyay2610@gmail.com
