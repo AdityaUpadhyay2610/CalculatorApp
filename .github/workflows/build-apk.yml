@@ -30,7 +30,7 @@ jobs:
       - name: Build Android Release APK
         run: |
           cd android
-          timeout 10m ./gradlew assembleRelease
+          timeout 10m ./gradlew assembleRelease --stacktrace --info
 
       - name: Upload APK to GitHub Releases
         uses: softprops/action-gh-release@v1
